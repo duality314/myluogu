@@ -1,0 +1,16 @@
+{
+  "configurations": [
+    {
+      "compilerPath": "gcc",
+      "cppStandard": "${default}",
+      "includePath": [
+        "${workspaceFolder}/**"
+      ],
+      "intelliSenseMode": "windows-gcc-x64",
+      "name": "windows-gcc-x64",
+      "configurationProvider": "ms-vscode.makefile-tools",
+      "cStandard": "${default}"
+    }
+  ],
+  "version": 4
+}
