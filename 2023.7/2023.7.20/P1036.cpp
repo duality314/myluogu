@@ -55,3 +55,8 @@ int main()
     cout << re;
     return 0;
 }
+/*
+    选组合不能重 dfs要加第三个index变量
+
+
+*/
